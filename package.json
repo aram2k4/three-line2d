@@ -5,9 +5,9 @@
   "main": "index.js",
   "license": "MIT",
   "author": {
-    "name": "Matt DesLauriers",
-    "email": "dave.des@gmail.com",
-    "url": "https://github.com/mattdesl"
+    "name": "Ramachandran",
+    "email": "aram2k4@gmail.com",
+    "url": "https://github.com/aram2k4"
   },
   "semistandard": {
     "globals": [
@@ -54,10 +54,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/mattdesl/three-line-2d.git"
-  },
-  "homepage": "https://github.com/mattdesl/three-line-2d",
-  "bugs": {
-    "url": "https://github.com/mattdesl/three-line-2d/issues"
+    "url": "https://github.com/aram2k4/three-line2d"
+  },    
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@aram2k4"
   }
 }
