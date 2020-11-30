@@ -1,5 +1,5 @@
 {
-  "name": "three-line2d",
+  "name": "@aram2k4/three-line2d",
   "version": "1.1.7",
   "description": "lines expanded in a vertex shader",
   "main": "index.js",
